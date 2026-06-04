@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FH6 Roulette</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="stage" aria-labelledby="app-title">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Forza Horizon 6</p>
+            <h1 id="app-title">Roleta de Carros</h1>
+          </div>
+          <div class="scoreboard" aria-live="polite">
+            <span id="poolCount">0</span>
+            <small>na roleta</small>
+          </div>
+        </header>
+
+        <div class="wheel-layout">
+          <div class="wheel-zone">
+            <div class="wheel-frame">
+              <div class="bulbs" aria-hidden="true"></div>
+              <div class="pointer" aria-hidden="true"></div>
+              <canvas id="wheel" width="900" height="900" aria-label="Roleta de carros"></canvas>
+              <div class="wheel-cap">
+                <span>FH6</span>
+              </div>
+            </div>
+
+            <div class="action-row">
+              <button id="spinButton" class="primary-button" type="button">Girar</button>
+              <button id="quickPickButton" type="button">Sortear rápido</button>
+              <button id="resetButton" type="button">Resetar saídos</button>
+            </div>
+          </div>
+
+          <aside class="panel">
+            <div class="result-box">
+              <span class="result-label">Resultado</span>
+              <strong id="winnerName">Aguardando giro</strong>
+              <p id="winnerMeta"></p>
+            </div>
+
+            <div class="control-grid">
+              <label>
+                Base
+                <select id="modeSelect">
+                  <option value="all">Todos os carros</option>
+                  <option value="filtered">Filtros</option>
+                  <option value="manual">Manuais</option>
+                  <option value="mixed">Filtros + manuais</option>
+                </select>
+              </label>
+
+              <label>
+                Busca
+                <input id="searchInput" type="search" placeholder="Supra, Ferrari, rally...">
+              </label>
+
+              <label>
+                Marca
+                <select id="makeSelect"></select>
+              </label>
+
+              <label>
+                Classe
+                <select id="classSelect"></select>
+              </label>
+
+              <label>
+                Tipo
+                <select id="typeSelect"></select>
+              </label>
+
+              <label>
+                País
+                <select id="countrySelect"></select>
+              </label>
+            </div>
+
+            <div class="toggles">
+              <label class="toggle">
+                <input id="noRepeatToggle" type="checkbox" checked>
+                <span>Sem repetir vencedores</span>
+              </label>
+
+              <label>
+                Duração
+                <input id="durationInput" type="range" min="3" max="9" value="6">
+              </label>
+            </div>
+
+            <label class="manual-box">
+              Carros manuais
+              <textarea id="manualInput" rows="7" placeholder="Um carro por linha"></textarea>
+            </label>
+
+            <div class="history">
+              <div class="history-head">
+                <span>Últimos sorteios</span>
+                <button id="clearHistoryButton" type="button">Limpar</button>
+              </div>
+              <ol id="historyList"></ol>
+            </div>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <script src="cars-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

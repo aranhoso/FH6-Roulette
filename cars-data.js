@@ -1,0 +1,7314 @@
+﻿window.FH6_CARS = [
+  {
+    "make": "Abarth",
+    "car_name": "1968 Abarth 595 esseesse",
+    "car_type": "Cult Cars",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Abarth",
+    "car_name": "1980 Abarth Fiat 131",
+    "car_type": "Classic Rally",
+    "performance_index": 399,
+    "car_class": "D",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Abarth",
+    "car_name": "2016 Abarth 695 Biposto",
+    "car_type": "Hot Hatch",
+    "performance_index": 540,
+    "car_class": "B",
+    "country": "Italy",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Acura",
+    "car_name": "2001 Acura Integra Type R",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 471,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Acura",
+    "car_name": "2002 Acura RSX Type S",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 462,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Acura",
+    "car_name": "2022 Acura NSX Type S",
+    "car_type": "Modern Supercars",
+    "performance_index": 734,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Acura",
+    "car_name": "2023 Acura Integra A-Spec",
+    "car_type": "Hot Hatch",
+    "performance_index": 484,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "car_name": "1965 Alfa Romeo Giulia Sprint GTA Stradale",
+    "car_type": "Rare Classics",
+    "performance_index": 379,
+    "car_class": "D",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "car_name": "1965 Alfa Romeo Giulia TZ2",
+    "car_type": "Classic Racers",
+    "performance_index": 532,
+    "car_class": "B",
+    "country": "Italy",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "car_name": "1968 Alfa Romeo 33 Stradale",
+    "car_type": "Classic Racers",
+    "performance_index": 593,
+    "car_class": "B",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "car_name": "1990 Alfa Romeo SE 048SP",
+    "car_type": "Retro Racers",
+    "performance_index": 978,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "car_name": "1992 Alfa Romeo 155 Q4",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 439,
+    "car_class": "C",
+    "country": "Italy",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "car_name": "2007 Alfa Romeo 8C Competizione",
+    "car_type": "GT Cars",
+    "performance_index": 635,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "car_name": "2014 Alfa Romeo 4C",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 644,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "car_name": "2017 Alfa Romeo Giulia Quadrifoglio",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 667,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "car_name": "2021 Alfa Romeo Giulia GTAm",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 717,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Alumicraft",
+    "car_name": "2015 Alumicraft Class 10 Race Car",
+    "car_type": "Unlimited Buggies",
+    "performance_index": 532,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Alumicraft",
+    "car_name": "2021 Alumicraft #122 Class 1 Buggy",
+    "car_type": "Unlimited Buggies",
+    "performance_index": 571,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Alumicraft",
+    "car_name": "2022 Alumicraft #6165 Trick Truck",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 485,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "AMG Transport Dynamics",
+    "car_name": "2554 AMG Transport Dynamics M12S Warthog CST",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 663,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Apollo",
+    "car_name": "2019 Apollo Intensa Emozione",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 916,
+    "car_class": "R",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ariel",
+    "car_name": "2013 Ariel Atom 500 V8",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 825,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ariel",
+    "car_name": "2016 Ariel Nomad",
+    "car_type": "Unlimited Buggies",
+    "performance_index": 601,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "1964 Aston Martin DB5",
+    "car_type": "Rare Classics",
+    "performance_index": 416,
+    "car_class": "C",
+    "country": "UK",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "2016 Aston Martin Vulcan",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 884,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin",
+      "Loyalty"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "2017 Aston Martin DB11",
+    "car_type": "Super GT",
+    "performance_index": 679,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "2017 Aston Martin Vulcan AMR Pro",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 898,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "2019 Aston Martin DBS Superleggera",
+    "car_type": "Super GT",
+    "performance_index": 736,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "2019 Aston Martin Valhalla Concept Car",
+    "car_type": "Hypercars",
+    "performance_index": 960,
+    "car_class": "R",
+    "country": "UK",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "2019 Aston Martin Vantage",
+    "car_type": "GT Cars",
+    "performance_index": 696,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "2021 Aston Martin DBX",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 618,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "2022 Aston Martin Valkyrie AMR Pro",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 989,
+    "car_class": "R",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Aston Martin",
+    "car_name": "2023 Aston Martin Valkyrie",
+    "car_type": "Hypercars",
+    "performance_index": 924,
+    "car_class": "R",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "1984 Audi Sport quattro",
+    "car_type": "Retro Rally",
+    "performance_index": 526,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "1986 Audi #2 Audi Sport quattro S1",
+    "car_type": "Rally Monsters",
+    "performance_index": 726,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2001 Audi RS 4 Avant",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 544,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2003 Audi RS 6",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 556,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2006 Audi RS 4",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 593,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2009 Audi R8 LMS",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 810,
+    "car_class": "S2",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2009 Audi RS 6",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 598,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2010 Audi TT RS CoupÃ©",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 593,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2011 Audi RS 3 Sportback",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 565,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2011 Audi RS 5 CoupÃ©",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 613,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2013 Audi R8 CoupÃ© V10 plus 5.2 FSI quattro",
+    "car_type": "Modern Supercars",
+    "performance_index": 694,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2013 Audi RS 4 Avant",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 607,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2013 Audi RS 7 Sportback",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 619,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2015 Audi RS 6 Avant",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 640,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2015 Audi S1",
+    "car_type": "Hot Hatch",
+    "performance_index": 527,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2016 Audi R8 V10 plus",
+    "car_type": "Modern Supercars",
+    "performance_index": 731,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2018 Audi RS 4 Avant",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 637,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2020 Audi R8 V10 performance",
+    "car_type": "Modern Supercars",
+    "performance_index": 738,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2020 Audi RS 3 Sedan",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 617,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2021 Audi RS 6 Avant",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 650,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2021 Audi RS 7 Sportback",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 655,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2021 Audi RS e-tron GT",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 677,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Audi",
+    "car_name": "2023 Audi R8 CoupÃ© V10 GT RWD",
+    "car_type": "Modern Supercars",
+    "performance_index": 769,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Austin-Healey",
+    "car_name": "1965 Austin-Healey 3000 MkIII",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 352,
+    "car_class": "D",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Autozam",
+    "car_name": "1993 Autozam AZ-1",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 342,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BAC",
+    "car_name": "2014 BAC Mono",
+    "car_type": "Track Toys",
+    "performance_index": 766,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Bentley",
+    "car_name": "2016 Bentley Bentayga",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 612,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Bentley",
+    "car_name": "2021 Bentley Continental GT Convertible",
+    "car_type": "GT Cars",
+    "performance_index": 649,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "1957 BMW Isetta 300 Export",
+    "car_type": "Cult Cars",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "1973 BMW 2002 Turbo",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 424,
+    "car_class": "C",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "1981 BMW M1",
+    "car_type": "Retro Supercars",
+    "performance_index": 510,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "1988 BMW M3",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 474,
+    "car_class": "C",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "1988 BMW M5",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 470,
+    "car_class": "C",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "1995 BMW 850CSi",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 493,
+    "car_class": "C",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "1995 BMW M5",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 516,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "1997 BMW M3",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 549,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2003 BMW M5",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 580,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2005 BMW M3",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 554,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2008 BMW M3",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 608,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2008 BMW Z4 M CoupÃ©",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 579,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2009 BMW M5",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 595,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2010 BMW M3 GTS",
+    "car_type": "Track Toys",
+    "performance_index": 678,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2011 BMW X5 M",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 546,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2012 BMW M5",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 652,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2014 BMW M4 CoupÃ©",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 679,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2015 BMW i8",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 665,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2016 BMW M4 GTS",
+    "car_type": "Track Toys",
+    "performance_index": 711,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2019 BMW Z4 Roadster",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 634,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2020 BMW M2 Competition CoupÃ©",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 656,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2020 BMW M8 Competition CoupÃ©",
+    "car_type": "GT Cars",
+    "performance_index": 684,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2021 BMW M4 Competition CoupÃ©",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 666,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2021 BMW M4 Competition CoupÃ© Welcome Pack",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 800,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2022 BMW iX xDrive50",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 595,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2022 BMW M5 CS",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 731,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2023 BMW M2",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 647,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2023 BMW M2 Forza Edition",
+    "car_type": "Track Toys",
+    "performance_index": 700,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "BMW",
+    "car_name": "2024 BMW X6 M Competition",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 672,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Buick",
+    "car_name": "1987 Buick Regal GNX",
+    "car_type": "Retro Muscle",
+    "performance_index": 454,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Cadillac",
+    "car_name": "2013 Cadillac XTS Limousine",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 381,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Cadillac",
+    "car_name": "2016 Cadillac ATS-V",
+    "car_type": "Modern Muscle",
+    "performance_index": 601,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Cadillac",
+    "car_name": "2016 Cadillac CTS-V Sedan",
+    "car_type": "Modern Muscle",
+    "performance_index": 648,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Cadillac",
+    "car_name": "2022 Cadillac CT4-V Blackwing",
+    "car_type": "Modern Muscle",
+    "performance_index": 650,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Cadillac",
+    "car_name": "2022 Cadillac CT5-V Blackwing",
+    "car_type": "Modern Muscle",
+    "performance_index": 701,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Can-Am",
+    "car_name": "2018 Can-Am Maverick X RS Turbo R",
+    "car_type": "UTV's",
+    "performance_index": 568,
+    "car_class": "B",
+    "country": "Canada",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Casey Currie Motorsports",
+    "car_name": "2019 Casey Currie Motorsports #4402 Ultra 4 'Trophy Jeep'",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 641,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1953 Chevrolet Corvette",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 270,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1955 Chevrolet 150 Utility Sedan",
+    "car_type": "Rods and Customs",
+    "performance_index": 221,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1957 Chevrolet Bel Air",
+    "car_type": "Rods and Customs",
+    "performance_index": 320,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1960 Chevrolet Corvette",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 428,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1964 Chevrolet Impala Super Sport 409",
+    "car_type": "Rods and Customs",
+    "performance_index": 427,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1967 Chevrolet Corvette Stingray 427",
+    "car_type": "Classic Muscle",
+    "performance_index": 510,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1969 Chevrolet Camaro Super Sport Coupe",
+    "car_type": "Classic Muscle",
+    "performance_index": 471,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1969 Chevrolet Nova Super Sport 396",
+    "car_type": "Classic Muscle",
+    "performance_index": 431,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1970 Chevrolet Camaro Z28",
+    "car_type": "Classic Muscle",
+    "performance_index": 430,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1970 Chevrolet Chevelle Super Sport 454",
+    "car_type": "Classic Muscle",
+    "performance_index": 424,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1970 Chevrolet Corvette ZR-1",
+    "car_type": "Classic Muscle",
+    "performance_index": 497,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1970 Chevrolet El Camino Super Sport 454",
+    "car_type": "Utility Heroes",
+    "performance_index": 430,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1972 Chevrolet K-10 Custom",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 268,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1979 Chevrolet Camaro Z28",
+    "car_type": "Classic Muscle",
+    "performance_index": 364,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1988 Chevrolet Monte Carlo Super Sport",
+    "car_type": "Retro Muscle",
+    "performance_index": 282,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1995 Chevrolet Corvette ZR-1",
+    "car_type": "Retro Muscle",
+    "performance_index": 576,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "1996 Chevrolet Impala Super Sport",
+    "car_type": "Retro Muscle",
+    "performance_index": 407,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2002 Chevrolet Corvette Z06",
+    "car_type": "Retro Muscle",
+    "performance_index": 602,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2009 Chevrolet Corvette ZR1",
+    "car_type": "Modern Muscle",
+    "performance_index": 712,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2015 Chevrolet Camaro Z/28",
+    "car_type": "Track Toys",
+    "performance_index": 695,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2015 Chevrolet Corvette Z06",
+    "car_type": "Modern Muscle",
+    "performance_index": 755,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2017 Chevrolet Camaro ZL1",
+    "car_type": "Modern Muscle",
+    "performance_index": 727,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2018 Chevrolet Camaro ZL1 1LE",
+    "car_type": "Track Toys",
+    "performance_index": 728,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2019 Chevrolet Corvette ZR1",
+    "car_type": "Track Toys",
+    "performance_index": 778,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2020 Chevrolet Corvette Stingray Coupe",
+    "car_type": "Modern Supercars",
+    "performance_index": 700,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2020 Chevrolet Silverado LT Trail Boss",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 449,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2023 Chevrolet Corvette Z06",
+    "car_type": "Track Toys",
+    "performance_index": 763,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "car_name": "2024 Chevrolet Corvette E-Ray",
+    "car_type": "Modern Supercars",
+    "performance_index": 737,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin",
+      "Loyalty"
+    ]
+  },
+  {
+    "make": "Datsun",
+    "car_name": "1969 Datsun 2000 Roadster",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 323,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Datsun",
+    "car_name": "1970 Datsun 510",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 143,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Datsun",
+    "car_name": "1972 Datsun #269 Attacking the Clock Racing 240Z 'All Carbon Hill Climb Beast'",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 951,
+    "car_class": "R",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "DeBerti",
+    "car_name": "2013 DeBerti Jeep Wrangler Unlimited",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 645,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "DeBerti",
+    "car_name": "2018 DeBerti Chevrolet Silverado 1500 Drift Truck",
+    "car_type": "Drift Cars",
+    "performance_index": 707,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "DeBerti",
+    "car_name": "2019 DeBerti Ford Super Duty F-250 Lariat 'Transformer'",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 548,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "DeBerti",
+    "car_name": "2019 DeBerti Toyota Tacoma TRD â€˜The Performance Truckâ€™",
+    "car_type": "Drift Cars",
+    "performance_index": 717,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "DeLorean",
+    "car_name": "1982 DeLorean DMC-12",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 357,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "1968 Dodge Dart HEMI Super Stock",
+    "car_type": "Classic Muscle",
+    "performance_index": 540,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "1969 Dodge Charger Daytona HEMI",
+    "car_type": "Classic Muscle",
+    "performance_index": 479,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "1969 Dodge Charger R/T",
+    "car_type": "Classic Muscle",
+    "performance_index": 417,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "1970 Dodge Challenger R/T",
+    "car_type": "Classic Muscle",
+    "performance_index": 443,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "1970 Dodge Coronet Super Bee",
+    "car_type": "Classic Muscle",
+    "performance_index": 455,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "1999 Dodge Viper GTS ACR",
+    "car_type": "Retro Muscle",
+    "performance_index": 598,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "1999 Dodge Viper GTS ACR Forza Edition",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 700,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "2006 Dodge Ram SRT-10",
+    "car_type": "Modern Muscle",
+    "performance_index": 547,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "2008 Dodge Viper SRT-10 ACR",
+    "car_type": "Track Toys",
+    "performance_index": 735,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "2015 Dodge Challenger SRT Hellcat",
+    "car_type": "Modern Muscle",
+    "performance_index": 631,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "2015 Dodge Charger SRT Hellcat",
+    "car_type": "Modern Muscle",
+    "performance_index": 637,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "2016 Dodge Viper ACR",
+    "car_type": "Track Toys",
+    "performance_index": 786,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "2018 Dodge Challenger SRT Demon",
+    "car_type": "Modern Muscle",
+    "performance_index": 678,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "2021 Dodge Durango SRT Hellcat",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 628,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "car_name": "2022 Dodge Challenger SRT Super Stock",
+    "car_type": "Modern Muscle",
+    "performance_index": 695,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1962 Ferrari 250 GT Berlinetta Lusso",
+    "car_type": "Rare Classics",
+    "performance_index": 475,
+    "car_class": "C",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1962 Ferrari 250 GTO",
+    "car_type": "Classic Racers",
+    "performance_index": 494,
+    "car_class": "C",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1967 Ferrari #24 Ferrari Spa 330 P4",
+    "car_type": "Classic Racers",
+    "performance_index": 684,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1967 Ferrari 275 GTB4 Spider",
+    "car_type": "Rare Classics",
+    "performance_index": 490,
+    "car_class": "C",
+    "country": "Italy",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1969 Ferrari Dino 246 GT",
+    "car_type": "Rare Classics",
+    "performance_index": 428,
+    "car_class": "C",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1970 Ferrari 512 S",
+    "car_type": "Classic Racers",
+    "performance_index": 774,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1984 Ferrari 288 GTO",
+    "car_type": "Retro Supercars",
+    "performance_index": 643,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1987 Ferrari F40",
+    "car_type": "Retro Supercars",
+    "performance_index": 678,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1989 Ferrari F40 Competizione",
+    "car_type": "Retro Racers",
+    "performance_index": 948,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1992 Ferrari 512 TR",
+    "car_type": "Retro Supercars",
+    "performance_index": 615,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1994 Ferrari F355 Berlinetta",
+    "car_type": "Retro Supercars",
+    "performance_index": 588,
+    "car_class": "B",
+    "country": "Italy",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1995 Ferrari F50",
+    "car_type": "Retro Supercars",
+    "performance_index": 678,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "1996 Ferrari F50 GT",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 949,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2002 Ferrari Enzo Ferrari",
+    "car_type": "Retro Supercars",
+    "performance_index": 755,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2005 Ferrari FXX",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 900,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2007 Ferrari 430 Scuderia",
+    "car_type": "Modern Supercars",
+    "performance_index": 702,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2009 Ferrari 458 Italia",
+    "car_type": "Modern Supercars",
+    "performance_index": 721,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2010 Ferrari 599XX",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 840,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2012 Ferrari 599XX Evolution",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 894,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2013 Ferrari 458 Speciale",
+    "car_type": "Track Toys",
+    "performance_index": 768,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2013 Ferrari LaFerrari",
+    "car_type": "Hypercars",
+    "performance_index": 857,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2014 Ferrari FXX K",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 936,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2015 Ferrari 488 GTB",
+    "car_type": "Modern Supercars",
+    "performance_index": 770,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2015 Ferrari F12tdf",
+    "car_type": "Super GT",
+    "performance_index": 788,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2017 Ferrari 812 Superfast",
+    "car_type": "Super GT",
+    "performance_index": 780,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2017 Ferrari J50",
+    "car_type": "Modern Supercars",
+    "performance_index": 772,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2017 Ferrari J50 Preorder Car",
+    "car_type": "Modern Supercars",
+    "performance_index": 800,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2018 Ferrari FXX-K Evo",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 957,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2018 Ferrari FXX-K Evo Welcome Pack",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 998,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2018 Ferrari Portofino",
+    "car_type": "Super GT",
+    "performance_index": 714,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2019 Ferrari 488 Pista",
+    "car_type": "Track Toys",
+    "performance_index": 803,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2019 Ferrari F8 Tributo",
+    "car_type": "Modern Supercars",
+    "performance_index": 802,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2019 Ferrari Monza SP2",
+    "car_type": "Super GT",
+    "performance_index": 773,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2020 Ferrari Roma",
+    "car_type": "Super GT",
+    "performance_index": 735,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2020 Ferrari SF90 Stradale",
+    "car_type": "Hypercars",
+    "performance_index": 851,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2022 Ferrari 296 GTB",
+    "car_type": "Modern Supercars",
+    "performance_index": 811,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ferrari",
+    "car_name": "2025 Ferrari F80",
+    "car_type": "Hypercars",
+    "performance_index": 920,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1932 Ford De Luxe Five-Window Coupe",
+    "car_type": "Rods and Customs",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1965 Ford Mustang GT Coupe",
+    "car_type": "Classic Muscle",
+    "performance_index": 388,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1966 Ford #2 GT40 Mk II",
+    "car_type": "Classic Racers",
+    "performance_index": 666,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1968 Ford Mustang GT 2+2 Fastback",
+    "car_type": "Classic Muscle",
+    "performance_index": 394,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1968 Ford Mustang GT 2+2 Fastback Forza Edition",
+    "car_type": "Drift Cars",
+    "performance_index": 700,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1969 Ford Mustang Boss 302",
+    "car_type": "Classic Muscle",
+    "performance_index": 468,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1973 Ford Capri RS3100",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 394,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1973 Ford XB Falcon GT",
+    "car_type": "Classic Muscle",
+    "performance_index": 422,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1977 Ford #5 Escort RS1800 MkII",
+    "car_type": "Classic Rally",
+    "performance_index": 544,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1985 Ford RS200 Evolution",
+    "car_type": "Rally Monsters",
+    "performance_index": 710,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1986 Ford F-150 XLT Lariat",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 263,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1986 Ford F-150 XLT Lariat Forza Edition",
+    "car_type": "Drift Cars",
+    "performance_index": 850,
+    "car_class": "S2",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1987 Ford Sierra Cosworth RS500",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 484,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1992 Ford Escort RS Cosworth",
+    "car_type": "Retro Rally",
+    "performance_index": 456,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1993 Ford Mustang SVT Cobra R",
+    "car_type": "Retro Muscle",
+    "performance_index": 432,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1994 Ford Supervan 3",
+    "car_type": "Track Toys",
+    "performance_index": 740,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "1999 Ford Racing Puma",
+    "car_type": "Retro Rally",
+    "performance_index": 401,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2000 Ford Mustang SVT Cobra R",
+    "car_type": "Retro Muscle",
+    "performance_index": 528,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2001 Ford #4 Ford Focus RS",
+    "car_type": "Rally Monsters",
+    "performance_index": 639,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2003 Ford F-150 SVT Lightning",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 474,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2003 Ford Focus RS",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 484,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2005 Ford GT",
+    "car_type": "Retro Supercars",
+    "performance_index": 676,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2009 Ford Focus RS",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 551,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2010 Ford Crown Victoria Police Interceptor",
+    "car_type": "Retro Muscle",
+    "performance_index": 354,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2011 Ford Transit SuperSportVan",
+    "car_type": "Utility Heroes",
+    "performance_index": 235,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2013 Ford Mustang Shelby GT500",
+    "car_type": "Modern Muscle",
+    "performance_index": 647,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2014 Ford #11 Rockstar F-150 Trophy Truck",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 613,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2014 Ford FPV Limited Edition Pursuit Ute",
+    "car_type": "Utility Heroes",
+    "performance_index": 563,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2014 Ford Ranger T6 Rally Raid",
+    "car_type": "Offroad",
+    "performance_index": 530,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2016 Ford Mustang Shelby GT350R",
+    "car_type": "Track Toys",
+    "performance_index": 721,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2017 Ford #14 Rahal Letterman Lanigan Racing Fiesta",
+    "car_type": "Rally Monsters",
+    "performance_index": 772,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2017 Ford #25 'Brocky' Ultra4 Bronco RTR",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 644,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2017 Ford Focus RS",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 588,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2017 Ford GT",
+    "car_type": "Modern Supercars",
+    "performance_index": 757,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2017 Ford M-Sport Fiesta RS",
+    "car_type": "Rally Monsters",
+    "performance_index": 707,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2018 Ford Mustang RTR Spec 5",
+    "car_type": "Modern Muscle",
+    "performance_index": 648,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2020 Ford #2069 Ford Performance Bronco R",
+    "car_type": "Offroad",
+    "performance_index": 441,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2020 Ford Mustang Shelby GT500",
+    "car_type": "Modern Muscle",
+    "performance_index": 734,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2020 Ford Super Duty F-450 DRW PLATINUM",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 379,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2020 Ford Super Duty F-450 DRW PLATINUM Forza Edition",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 700,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2022 Ford Bronco Raptor",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 473,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2022 Ford F-150 Lightning",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 500,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2022 Ford Focus ST",
+    "car_type": "Hot Hatch",
+    "performance_index": 594,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2022 Ford Supervan 4",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 919,
+    "car_class": "R",
+    "country": "USA",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2023 Ford F-150 Raptor R",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 536,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2023 Ford F-150 Raptor R Welcome Pack",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 600,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2023 Ford Fiesta ST",
+    "car_type": "Hot Hatch",
+    "performance_index": 500,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2024 Ford Mustang Dark Horse",
+    "car_type": "Modern Muscle",
+    "performance_index": 669,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Ford",
+    "car_name": "2024 Ford Mustang GT",
+    "car_type": "Modern Muscle",
+    "performance_index": 628,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "1989 Formula Drift #98 BMW 325i",
+    "car_type": "Drift Cars",
+    "performance_index": 726,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "1995 Formula Drift #34 Toyota Supra MkIV",
+    "car_type": "Drift Cars",
+    "performance_index": 759,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "1997 Formula Drift #777 Nissan 240SX",
+    "car_type": "Drift Cars",
+    "performance_index": 748,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2006 Formula Drift #43 Dodge Viper SRT-10 ACR",
+    "car_type": "Drift Cars",
+    "performance_index": 748,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2007 Formula Drift #117 599 GTB Fiorano",
+    "car_type": "Drift Cars",
+    "performance_index": 767,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2009 Formula Drift #99 Mazda RX-8",
+    "car_type": "Drift Cars",
+    "performance_index": 737,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2013 Formula Drift #777 Chevrolet Corvette",
+    "car_type": "Drift Cars",
+    "performance_index": 760,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2015 Formula Drift #13 Ford Mustang",
+    "car_type": "Drift Cars",
+    "performance_index": 739,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2016 Formula Drift #530 HSV Maloo GEN-F",
+    "car_type": "Drift Cars",
+    "performance_index": 710,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2019 Formula Drift #411 Toyota Corolla Hatchback",
+    "car_type": "Drift Cars",
+    "performance_index": 754,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2020 Formula Drift #151 Toyota GR Supra",
+    "car_type": "Drift Cars",
+    "performance_index": 779,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2020 Formula Drift #91 BMW M2",
+    "car_type": "Drift Cars",
+    "performance_index": 748,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Formula Drift",
+    "car_name": "2023 Formula Drift #64 Forsberg Racing Nissan Z",
+    "car_type": "Drift Cars",
+    "performance_index": 783,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Funco Motorsports",
+    "car_name": "2018 Funco Motorsports F9",
+    "car_type": "Unlimited Buggies",
+    "performance_index": 752,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "GMC",
+    "car_name": "1970 GMC Jimmy",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 416,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "GMC",
+    "car_name": "1991 GMC Syclone",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 446,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "GMC",
+    "car_name": "1992 GMC Typhoon",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 435,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "GMC",
+    "car_name": "2022 GMC HUMMER EV Pickup",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 610,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Gordon Murray Automotive",
+    "car_name": "2020 Gordon Murray Automotive T.50",
+    "car_type": "Hypercars",
+    "performance_index": 871,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "GR",
+    "car_name": "2025 GR GT Prototype",
+    "car_type": "Super GT",
+    "performance_index": 771,
+    "car_class": "S1",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Hennessey",
+    "car_name": "2012 Hennessey Venom GT",
+    "car_type": "Hypercars",
+    "performance_index": 845,
+    "car_class": "S2",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Hennessey",
+    "car_name": "2019 Hennessey Ford F-150 VelociRaptor 6X6",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 520,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Hennessey",
+    "car_name": "2021 Hennessey Venom F5",
+    "car_type": "Hypercars",
+    "performance_index": 870,
+    "car_class": "S2",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Holden",
+    "car_name": "1977 Holden Torana A9X",
+    "car_type": "Classic Muscle",
+    "performance_index": 413,
+    "car_class": "C",
+    "country": "Australia",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1970 Honda S800",
+    "car_type": "Cult Cars",
+    "performance_index": 134,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1974 Honda Civic RS",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 254,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1984 Honda City E II",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 203,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1984 Honda Civic CRX Mugen",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 390,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1986 Honda Civic Si",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 253,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1990 Honda #19 101 Motorsport CRX WTAC",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 877,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1991 Honda Beat",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 283,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1991 Honda CR-X SiR",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 465,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1992 Honda #21 Hardrace/JDMYard Civic WTAC",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 913,
+    "car_class": "R",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1992 Honda NSX-R",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 572,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1994 Honda Acty",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1994 Honda Prelude Si",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 410,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "1997 Honda Civic Type R",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 430,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2001 Honda #33 Integra WTAC",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 860,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2003 Honda S2000",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 503,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2004 Honda #52 Evasive Motorsports S2000 WTAC",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 888,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2004 Honda Civic Type R",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 480,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2005 Honda NSX-R",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 570,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2005 Honda NSX-R GT",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 608,
+    "car_class": "A",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2007 Honda Civic Type R",
+    "car_type": "Hot Hatch",
+    "performance_index": 454,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2008 Honda Civic Type R (FD2)",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 514,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2015 Honda Civic Type R",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 585,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2015 Honda Ridgeline Baja Trophy Truck",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 580,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2018 Honda Civic Type R",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 608,
+    "car_class": "A",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2022 Honda e",
+    "car_type": "Hot Hatch",
+    "performance_index": 398,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Honda",
+    "car_name": "2023 Honda Civic Type R",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 620,
+    "car_class": "A",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "HSV",
+    "car_name": "2014 HSV GEN-F GTS",
+    "car_type": "Modern Muscle",
+    "performance_index": 601,
+    "car_class": "A",
+    "country": "Australia",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "HSV",
+    "car_name": "2014 HSV Limited Edition GEN-F GTS Maloo",
+    "car_type": "Utility Heroes",
+    "performance_index": 629,
+    "car_class": "A",
+    "country": "Australia",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "car_name": "2019 Hyundai Veloster N",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 532,
+    "car_class": "B",
+    "country": "Korea",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "car_name": "2020 Hyundai i30 N",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 553,
+    "car_class": "B",
+    "country": "Korea",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "car_name": "2021 Hyundai i20 N",
+    "car_type": "Hot Hatch",
+    "performance_index": 564,
+    "car_class": "B",
+    "country": "Korea",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "car_name": "2022 Hyundai N Vision 74",
+    "car_type": "Track Toys",
+    "performance_index": 692,
+    "car_class": "A",
+    "country": "Korea",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "car_name": "2023 Hyundai IONIQ 5 N",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 657,
+    "car_class": "A",
+    "country": "Korea",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jaguar",
+    "car_name": "1956 Jaguar D-Type",
+    "car_type": "Classic Racers",
+    "performance_index": 506,
+    "car_class": "B",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jaguar",
+    "car_name": "1961 Jaguar E-type",
+    "car_type": "Rare Classics",
+    "performance_index": 414,
+    "car_class": "C",
+    "country": "UK",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Jaguar",
+    "car_name": "1964 Jaguar Lightweight E-Type",
+    "car_type": "Classic Racers",
+    "performance_index": 568,
+    "car_class": "B",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jaguar",
+    "car_name": "1991 Jaguar Sport XJR-15",
+    "car_type": "Retro Supercars",
+    "performance_index": 716,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Jaguar",
+    "car_name": "1993 Jaguar XJ220",
+    "car_type": "Retro Supercars",
+    "performance_index": 676,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jaguar",
+    "car_name": "1993 Jaguar XJ220S TWR",
+    "car_type": "Retro Supercars",
+    "performance_index": 750,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jaguar",
+    "car_name": "2010 Jaguar C-X75",
+    "car_type": "Modern Supercars",
+    "performance_index": 810,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jeep",
+    "car_name": "2012 Jeep Wrangler Rubicon",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 350,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jeep",
+    "car_name": "2016 Jeep Trailcat",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 635,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jeep",
+    "car_name": "2018 Jeep Grand Cherokee Trackhawk",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 631,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jeep",
+    "car_name": "2020 Jeep JT",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 336,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jimco",
+    "car_name": "2019 Jimco #240 Fastball Racing Class 6100 Spec Trophy Truck",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 511,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Jimco",
+    "car_name": "2020 Jimco #179 Hammerhead Class 1",
+    "car_type": "Unlimited Buggies",
+    "performance_index": 652,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Koenigsegg",
+    "car_name": "2008 Koenigsegg CCGT",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 900,
+    "car_class": "S2",
+    "country": "Sweden",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Koenigsegg",
+    "car_name": "2011 Koenigsegg Agera",
+    "car_type": "Hypercars",
+    "performance_index": 810,
+    "car_class": "S2",
+    "country": "Sweden",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Koenigsegg",
+    "car_name": "2015 Koenigsegg One:1",
+    "car_type": "Hypercars",
+    "performance_index": 890,
+    "car_class": "S2",
+    "country": "Sweden",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Koenigsegg",
+    "car_name": "2016 Koenigsegg Regera",
+    "car_type": "Hypercars",
+    "performance_index": 886,
+    "car_class": "S2",
+    "country": "Sweden",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Koenigsegg",
+    "car_name": "2017 Koenigsegg Agera RS",
+    "car_type": "Hypercars",
+    "performance_index": 890,
+    "car_class": "S2",
+    "country": "Sweden",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Koenigsegg",
+    "car_name": "2020 Koenigsegg Jesko",
+    "car_type": "Hypercars",
+    "performance_index": 899,
+    "car_class": "S2",
+    "country": "Sweden",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Koenigsegg",
+    "car_name": "2024 Koenigsegg Gemera",
+    "car_type": "Hypercars",
+    "performance_index": 900,
+    "car_class": "S2",
+    "country": "Sweden",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "KTM",
+    "car_name": "2018 KTM X-Bow GT4",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 749,
+    "car_class": "S1",
+    "country": "Austria",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "1967 Lamborghini Miura P400",
+    "car_type": "Rare Classics",
+    "performance_index": 505,
+    "car_class": "B",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "1988 Lamborghini Countach LP5000 QV",
+    "car_type": "Retro Supercars",
+    "performance_index": 622,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "1997 Lamborghini Diablo SV",
+    "car_type": "Retro Supercars",
+    "performance_index": 649,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "1999 Lamborghini Diablo GTR",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 823,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2010 Lamborghini MurciÃ©lago LP 670-4 SV",
+    "car_type": "Modern Supercars",
+    "performance_index": 707,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2011 Lamborghini Sesto Elemento",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 871,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2012 Lamborghini Aventador LP700-4",
+    "car_type": "Hypercars",
+    "performance_index": 753,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2012 Lamborghini Gallardo LP570-4 Spyder Performante",
+    "car_type": "Modern Supercars",
+    "performance_index": 685,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2013 Lamborghini Veneno",
+    "car_type": "Hypercars",
+    "performance_index": 834,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2014 Lamborghini HuracÃ¡n LP 610-4",
+    "car_type": "Modern Supercars",
+    "performance_index": 738,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin",
+      "Loyalty"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2016 Lamborghini Centenario LP 770-4",
+    "car_type": "Hypercars",
+    "performance_index": 792,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin",
+      "Loyalty"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2018 Lamborghini Aventador SVJ",
+    "car_type": "Hypercars",
+    "performance_index": 794,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2019 Lamborghini Urus",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 659,
+    "car_class": "A",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2020 Lamborghini Essenza SCV12",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 911,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2020 Lamborghini HuracÃ¡n EVO",
+    "car_type": "Modern Supercars",
+    "performance_index": 761,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2020 Lamborghini HuracÃ¡n STO",
+    "car_type": "Track Toys",
+    "performance_index": 783,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2020 Lamborghini SiÃ¡n Roadster",
+    "car_type": "Hypercars",
+    "performance_index": 797,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2021 Lamborghini Countach LPI 800-4",
+    "car_type": "Hypercars",
+    "performance_index": 773,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2022 Lamborghini Aventador LP 780-4 Ultimae",
+    "car_type": "Hypercars",
+    "performance_index": 794,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2022 Lamborghini HuracÃ¡n Sterrato",
+    "car_type": "Rally Monsters",
+    "performance_index": 738,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2022 Lamborghini HuracÃ¡n Tecnica",
+    "car_type": "Modern Supercars",
+    "performance_index": 747,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lamborghini",
+    "car_name": "2024 Lamborghini Revuelto",
+    "car_type": "Hypercars",
+    "performance_index": 829,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Lancia",
+    "car_name": "1974 Lancia Stratos HF Stradale",
+    "car_type": "Classic Rally",
+    "performance_index": 483,
+    "car_class": "C",
+    "country": "Italy",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Lancia",
+    "car_name": "1986 Lancia Delta S4",
+    "car_type": "Retro Rally",
+    "performance_index": 564,
+    "car_class": "B",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lancia",
+    "car_name": "1992 Lancia Delta HF Integrale EVO",
+    "car_type": "Retro Rally",
+    "performance_index": 489,
+    "car_class": "C",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Land Rover",
+    "car_name": "2015 Land Rover Range Rover Sport SVR",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 604,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Land Rover",
+    "car_name": "2020 Land Rover Defender 110 X",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 427,
+    "car_class": "C",
+    "country": "UK",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Lexus",
+    "car_name": "2010 Lexus LFA",
+    "car_type": "Modern Supercars",
+    "performance_index": 699,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Lexus",
+    "car_name": "2010 Lexus LFA Forza Edition",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 900,
+    "car_class": "S2",
+    "country": "USA",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lexus",
+    "car_name": "2015 Lexus RC F",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 623,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lexus",
+    "car_name": "2021 Lexus LC 500",
+    "car_type": "GT Cars",
+    "performance_index": 592,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lincoln",
+    "car_name": "1962 Lincoln Continental",
+    "car_type": "Rods and Customs",
+    "performance_index": 267,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Lotus",
+    "car_name": "1997 Lotus Elise GT1",
+    "car_type": "Retro Supercars",
+    "performance_index": 709,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lotus",
+    "car_name": "1999 Lotus Elise Series 1 Sport 190",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 589,
+    "car_class": "B",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lotus",
+    "car_name": "2018 Lotus Exige Cup 430",
+    "car_type": "Track Toys",
+    "performance_index": 732,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lotus",
+    "car_name": "2018 Lotus Scura Motorsports Exige WTAC",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 998,
+    "car_class": "R",
+    "country": "UK",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lotus",
+    "car_name": "2020 Lotus Evija",
+    "car_type": "Hypercars",
+    "performance_index": 937,
+    "car_class": "R",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Lotus",
+    "car_name": "2020 Lotus Evija Forza Edition",
+    "car_type": "Drift Cars",
+    "performance_index": 900,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Lotus",
+    "car_name": "2023 Lotus Emira",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 656,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Lucid",
+    "car_name": "2024 Lucid Air Sapphire",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 820,
+    "car_class": "S2",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Maserati",
+    "car_name": "1997 Maserati Ghibli Cup",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 591,
+    "car_class": "B",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Maserati",
+    "car_name": "2004 Maserati MC12",
+    "car_type": "Retro Supercars",
+    "performance_index": 751,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Maserati",
+    "car_name": "2008 Maserati MC12 Versione Corsa",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 912,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Maserati",
+    "car_name": "2022 Maserati MC20",
+    "car_type": "Modern Supercars",
+    "performance_index": 753,
+    "car_class": "S1",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1972 Mazda Cosmo 110S Series II",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 394,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1973 Mazda RX-3",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 328,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1973 Mazda RX-3 Forza Edition",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 600,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1974 Mazda #123 Mad Mike 808 Wagon 'FURSTY'",
+    "car_type": "Drift Cars",
+    "performance_index": 702,
+    "car_class": "S1",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1985 Mazda RX-7 GSL-SE",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 357,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1990 Mazda Savanna RX-7",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 451,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1991 Mazda #55 Mazda 787B",
+    "car_type": "Retro Racers",
+    "performance_index": 988,
+    "car_class": "R",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1992 Mazda RX-7 Type R",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 548,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1994 Mazda MX-5 Miata",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 329,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "1994 Mazda MX-5 Miata Forza Edition",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 850,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "2005 Mazda Mazdaspeed MX-5",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 469,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "2008 Mazda Furai",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 926,
+    "car_class": "R",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "2010 Mazda Mazdaspeed 3",
+    "car_type": "Hot Hatch",
+    "performance_index": 536,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "2011 Mazda RX-8 R3",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 508,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "2013 Mazda MX-5",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 432,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "2016 Mazda MX-5",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 499,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "2017 Mazda MX-5 Cup",
+    "car_type": "Track Toys",
+    "performance_index": 586,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "car_name": "2022 Mazda MX-5 Miata RF",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 509,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "1993 McLaren F1",
+    "car_type": "Retro Supercars",
+    "performance_index": 713,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "1997 McLaren F1 GT",
+    "car_type": "Retro Supercars",
+    "performance_index": 769,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2011 McLaren 12C CoupÃ©",
+    "car_type": "Modern Supercars",
+    "performance_index": 727,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2013 McLaren P1",
+    "car_type": "Hypercars",
+    "performance_index": 848,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2014 McLaren 650S Spider",
+    "car_type": "Modern Supercars",
+    "performance_index": 765,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2015 McLaren 570S CoupÃ©",
+    "car_type": "Modern Supercars",
+    "performance_index": 721,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2018 McLaren 600LT CoupÃ©",
+    "car_type": "Track Toys",
+    "performance_index": 780,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2019 McLaren Speedtail",
+    "car_type": "Hypercars",
+    "performance_index": 835,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2021 McLaren 620R",
+    "car_type": "Track Toys",
+    "performance_index": 773,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2021 McLaren 765LT CoupÃ©",
+    "car_type": "Track Toys",
+    "performance_index": 829,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2021 McLaren Sabre",
+    "car_type": "Hypercars",
+    "performance_index": 787,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "McLaren",
+    "car_name": "2023 McLaren Artura",
+    "car_type": "Modern Supercars",
+    "performance_index": 766,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2015 Mercedes-AMG GT S",
+    "car_type": "Super GT",
+    "performance_index": 691,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2016 Mercedes-AMG C 63 S CoupÃ©",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 645,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2017 Mercedes-AMG GT R",
+    "car_type": "Super GT",
+    "performance_index": 764,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2018 Mercedes-AMG E 63 S",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 674,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2018 Mercedes-AMG GT 4-Door CoupÃ©",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 664,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2020 Mercedes-AMG GT Black Series",
+    "car_type": "Track Toys",
+    "performance_index": 782,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2020 Mercedes-AMG GT Black Series Welcome Pack",
+    "car_type": "Track Toys",
+    "performance_index": 900,
+    "car_class": "S2",
+    "country": "Germany",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2020 Mercedes-AMG SLC 43 Final Edition",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 620,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2021 Mercedes-AMG Mercedes-AMG ONE",
+    "car_type": "Hypercars",
+    "performance_index": 900,
+    "car_class": "S2",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-AMG",
+    "car_name": "2021 Mercedes-AMG SL 63",
+    "car_type": "GT Cars",
+    "performance_index": 690,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "1954 Mercedes-Benz 300 SL CoupÃ©",
+    "car_type": "Rare Classics",
+    "performance_index": 388,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "1955 Mercedes-Benz 300 SLR",
+    "car_type": "Classic Racers",
+    "performance_index": 599,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "1987 Mercedes-Benz AMG Hammer Coupe",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 565,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "1990 Mercedes-Benz 190 E 2.5-16 Evolution II",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 460,
+    "car_class": "C",
+    "country": "Germany",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "1990 Mercedes-Benz 190 E 2.5-16 Evolution II Forza Edition",
+    "car_type": "Track Toys",
+    "performance_index": 700,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "1998 Mercedes-Benz AMG CLK GTR",
+    "car_type": "Retro Supercars",
+    "performance_index": 713,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "2009 Mercedes-Benz SL 65 AMG Black Series",
+    "car_type": "Super GT",
+    "performance_index": 699,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "2012 Mercedes-Benz C 63 AMG CoupÃ© Black Series",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 654,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "2013 Mercedes-Benz A 45 AMG",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 582,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "2013 Mercedes-Benz G 65 AMG",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 530,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "2014 Mercedes-Benz G 63 AMG 6x6",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 489,
+    "car_class": "C",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "2014 Mercedes-Benz Unimog U5023",
+    "car_type": "Offroad",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "car_name": "2018 Mercedes-Benz X-Class",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 258,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Meyers",
+    "car_name": "1971 Meyers Manx",
+    "car_type": "Buggies",
+    "performance_index": 201,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Meyers",
+    "car_name": "2023 Meyers Manx 2.0",
+    "car_type": "Buggies",
+    "performance_index": 540,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "MG",
+    "car_name": "1986 MG Metro 6R4",
+    "car_type": "Rally Monsters",
+    "performance_index": 627,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "MINI",
+    "car_name": "1965 MINI Cooper S",
+    "car_type": "Classic Rally",
+    "performance_index": 158,
+    "car_class": "D",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "MINI",
+    "car_name": "2012 MINI John Cooper Works GP",
+    "car_type": "Hot Hatch",
+    "performance_index": 509,
+    "car_class": "B",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "MINI",
+    "car_name": "2013 MINI X-Raid All4 Racing Countryman",
+    "car_type": "Offroad",
+    "performance_index": 523,
+    "car_class": "B",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "MINI",
+    "car_name": "2018 MINI X-raid John Cooper Works Buggy",
+    "car_type": "Offroad",
+    "performance_index": 514,
+    "car_class": "B",
+    "country": "UK",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "MINI",
+    "car_name": "2021 MINI John Cooper Works GP",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 599,
+    "car_class": "B",
+    "country": "UK",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "1990 Mitsubishi #269 Attacking the Clock Racing Minicab Time Attack",
+    "car_type": "Track Toys",
+    "performance_index": 166,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "1992 Mitsubishi Galant VR-4",
+    "car_type": "Retro Rally",
+    "performance_index": 431,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "1995 Mitsubishi Eclipse GSX",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 436,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "1995 Mitsubishi Lancer Evolution III GSR",
+    "car_type": "Retro Rally",
+    "performance_index": 518,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "1995 Mitsubishi Montero Exceed 2800 TD",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 190,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "1997 Mitsubishi GTO",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 495,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "1997 Mitsubishi Montero Evolution",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 346,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "2001 Mitsubishi Lancer Evolution VI GSR TM Edition",
+    "car_type": "Retro Rally",
+    "performance_index": 574,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "2004 Mitsubishi Lancer Evolution VIII MR",
+    "car_type": "Modern Rally",
+    "performance_index": 555,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "2004 Mitsubishi Lancer Evolution VIII MR Welcome Pack",
+    "car_type": "Modern Rally",
+    "performance_index": 700,
+    "car_class": "A",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "2005 Mitsubishi #1 Sierra Sierra Enterprises Lancer Evolution Time Attack",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 962,
+    "car_class": "R",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "2006 Mitsubishi Lancer Evolution IX MR",
+    "car_type": "Modern Rally",
+    "performance_index": 521,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Mitsubishi",
+    "car_name": "2008 Mitsubishi Lancer Evolution X GSR",
+    "car_type": "Modern Rally",
+    "performance_index": 534,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1969 Nissan Fairlady Z 432",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 369,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1971 Nissan Skyline 2000GT-R",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 380,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1973 Nissan Skyline H/T 2000GT-R",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 407,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1983 Nissan #11 Tomica Skyline Turbo Super Silhouette",
+    "car_type": "Retro Racers",
+    "performance_index": 847,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1985 Nissan Safari Turbo",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 123,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1987 Nissan Be-1",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 175,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1987 Nissan Skyline GTS-R",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 432,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1989 Nissan PAO",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 145,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1989 Nissan S-Cargo",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 131,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1989 Nissan S-Cargo Forza Edition",
+    "car_type": "Track Toys",
+    "performance_index": 800,
+    "car_class": "S1",
+    "country": "Japan",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1989 Nissan Silvia K's",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 455,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1990 Nissan #12 Skyline GT-R (BNR32 Gr.A) JTC",
+    "car_type": "Retro Racers",
+    "performance_index": 858,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1990 Nissan Pulsar GTI-R",
+    "car_type": "Retro Rally",
+    "performance_index": 486,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1991 Nissan Figaro",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 234,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1992 Nissan Skyline GT-R",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 541,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1993 Nissan #32 Skyline WTAC 'Xtreme GTR'",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 923,
+    "car_class": "R",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1993 Nissan 240SX",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 339,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1994 Nissan Fairlady Z Version S Twin Turbo",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 497,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1994 Nissan Silvia K's",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 499,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1995 Nissan Gloria Gran Turismo",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 498,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1995 Nissan NISMO GT-R LM",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 545,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1997 Nissan Skyline GT-R V-Spec",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 555,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1997 Nissan Stagea RS Four V",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 439,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1998 Nissan #23 Pennzoil NISMO Skyline GT-R",
+    "car_type": "Retro Racers",
+    "performance_index": 848,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1998 Nissan R390 (GT1)",
+    "car_type": "Retro Supercars",
+    "performance_index": 774,
+    "car_class": "S1",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1998 Nissan Silvia K's Aero",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 494,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "1998 Nissan Skyline GT-R 40th Anniversary",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 547,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2000 Nissan #36 Dream Project S15 Silvia WTAC",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 996,
+    "car_class": "R",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2000 Nissan Skyline GT-R V Spec II",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 590,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2002 Nissan Silvia Spec-R",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 551,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2003 Nissan Fairlady Z",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 534,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2010 Nissan 370Z",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 568,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2012 Nissan GT-R Black Edition (R35)",
+    "car_type": "Modern Supercars",
+    "performance_index": 703,
+    "car_class": "S1",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2012 Nissan GT-R Black Edition (R35) Forza Edition",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 850,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2017 Nissan GT-R (R35)",
+    "car_type": "Modern Supercars",
+    "performance_index": 709,
+    "car_class": "S1",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2019 Nissan 370Z Nismo",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 603,
+    "car_class": "A",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2020 Nissan GT-R NISMO (R35)",
+    "car_type": "Track Toys",
+    "performance_index": 736,
+    "car_class": "S1",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2024 Nissan GT-R Nismo",
+    "car_type": "Track Toys",
+    "performance_index": 741,
+    "car_class": "S1",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "car_name": "2024 Nissan Z NISMO",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 652,
+    "car_class": "A",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Noble",
+    "car_name": "2010 Noble M600",
+    "car_type": "Modern Supercars",
+    "performance_index": 793,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Opel",
+    "car_name": "1984 Opel Manta 400",
+    "car_type": "Rally Monsters",
+    "performance_index": 576,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Pagani",
+    "car_name": "2009 Pagani Zonda R",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 918,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Pagani",
+    "car_name": "2010 Pagani Zonda Cinque Roadster",
+    "car_type": "Hypercars",
+    "performance_index": 812,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Pagani",
+    "car_name": "2016 Pagani Huayra BC Coupe",
+    "car_type": "Hypercars",
+    "performance_index": 851,
+    "car_class": "S2",
+    "country": "Italy",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Pagani",
+    "car_name": "2021 Pagani Huayra R",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 954,
+    "car_class": "R",
+    "country": "Italy",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Peel",
+    "car_name": "1962 Peel P50",
+    "car_type": "Cult Cars",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Peel",
+    "car_name": "1962 Peel P50 Trolli Edition",
+    "car_type": "Cult Cars",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "UK",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Penhall",
+    "car_name": "2011 Penhall The Cholla",
+    "car_type": "Unlimited Buggies",
+    "performance_index": 541,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Peugeot",
+    "car_name": "1984 Peugeot 205 Turbo 16",
+    "car_type": "Retro Rally",
+    "performance_index": 500,
+    "car_class": "C",
+    "country": "France",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Peugeot",
+    "car_name": "1991 Peugeot 205 Rallye",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 350,
+    "car_class": "D",
+    "country": "France",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Peugeot",
+    "car_name": "2007 Peugeot 207 Super 2000",
+    "car_type": "Rally Monsters",
+    "performance_index": 632,
+    "car_class": "A",
+    "country": "France",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Plymouth",
+    "car_name": "1958 Plymouth Fury",
+    "car_type": "Rods and Customs",
+    "performance_index": 361,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Plymouth",
+    "car_name": "1968 Plymouth Barracuda Formula S",
+    "car_type": "Classic Muscle",
+    "performance_index": 445,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Plymouth",
+    "car_name": "1971 Plymouth Cuda 426 HEMI",
+    "car_type": "Classic Muscle",
+    "performance_index": 441,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Polaris",
+    "car_name": "2021 Polaris RZR Pro XP Factory Racing Limited Edition",
+    "car_type": "UTV's",
+    "performance_index": 439,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Polaris",
+    "car_name": "2021 Polaris RZR Pro XP Ultimate",
+    "car_type": "UTV's",
+    "performance_index": 496,
+    "car_class": "C",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Pontiac",
+    "car_name": "1977 Pontiac Firebird Trans Am",
+    "car_type": "Classic Muscle",
+    "performance_index": 312,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Pontiac",
+    "car_name": "1987 Pontiac Firebird Trans Am GTA",
+    "car_type": "Retro Muscle",
+    "performance_index": 382,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1970 Porsche #3 917 LH",
+    "car_type": "Classic Racers",
+    "performance_index": 777,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1970 Porsche #3 917 LH Forza Edition",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 998,
+    "car_class": "R",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1973 Porsche 911 Carrera RS",
+    "car_type": "Rare Classics",
+    "performance_index": 490,
+    "car_class": "C",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1982 Porsche 911 Turbo 3.3",
+    "car_type": "Retro Supercars",
+    "performance_index": 550,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1985 Porsche #185 959 Prodrive Rally Raid",
+    "car_type": "Rally Monsters",
+    "performance_index": 623,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1987 Porsche 959",
+    "car_type": "Retro Supercars",
+    "performance_index": 661,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1989 Porsche 944 Turbo",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 539,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1993 Porsche 911 Turbo S Leichtbau",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 652,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1993 Porsche 928 GTS",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 563,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1993 Porsche 968 Turbo S",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 594,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1995 Porsche 911 GT2",
+    "car_type": "Retro Supercars",
+    "performance_index": 644,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "1997 Porsche 911 GT1 Strassenversion",
+    "car_type": "Retro Supercars",
+    "performance_index": 746,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2003 Porsche Carrera GT",
+    "car_type": "Retro Supercars",
+    "performance_index": 758,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2004 Porsche 911 GT3",
+    "car_type": "Retro Supercars",
+    "performance_index": 674,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2005 Porsche Cayman GT3 WTAC",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 856,
+    "car_class": "S2",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2012 Porsche 911 GT3 RS 4.0",
+    "car_type": "Track Toys",
+    "performance_index": 726,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2014 Porsche 918 Spyder",
+    "car_type": "Hypercars",
+    "performance_index": 858,
+    "car_class": "S2",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2018 Porsche 718 Cayman GTS",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 675,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2018 Porsche 911 GT2 RS",
+    "car_type": "Track Toys",
+    "performance_index": 803,
+    "car_class": "S2",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2018 Porsche Cayenne Turbo",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 638,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2018 Porsche Macan LPR Rally Raid",
+    "car_type": "Offroad",
+    "performance_index": 528,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2019 Porsche #70 Porsche Motorsport 935",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 853,
+    "car_class": "S2",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2019 Porsche 911 Carrera S",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 714,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2019 Porsche 911 GT3 RS",
+    "car_type": "Track Toys",
+    "performance_index": 760,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2020 Porsche Taycan Turbo S",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 725,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2021 Porsche 911 GT3",
+    "car_type": "Track Toys",
+    "performance_index": 752,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2021 Porsche Mission R",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 865,
+    "car_class": "S2",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2022 Porsche 718 Cayman GT4 RS",
+    "car_type": "Track Toys",
+    "performance_index": 737,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2023 Porsche 911 GT3 RS",
+    "car_type": "Track Toys",
+    "performance_index": 758,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2023 Porsche 911 Rallye",
+    "car_type": "Rally Monsters",
+    "performance_index": 700,
+    "car_class": "A",
+    "country": "Germany",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "car_name": "2023 Porsche 911 Turbo S",
+    "car_type": "Modern Supercars",
+    "performance_index": 774,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Radical",
+    "car_name": "2015 Radical RXC Turbo",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 842,
+    "car_class": "S2",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Ram",
+    "car_name": "2024 Ram 1500 TRX",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 514,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Reliant",
+    "car_name": "1972 Reliant Supervan III",
+    "car_type": "Utility Heroes",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Renault",
+    "car_name": "1967 Renault 8 Gordini",
+    "car_type": "Classic Rally",
+    "performance_index": 322,
+    "car_class": "D",
+    "country": "France",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Renault",
+    "car_name": "1980 Renault 5 Turbo",
+    "car_type": "Retro Rally",
+    "performance_index": 417,
+    "car_class": "C",
+    "country": "France",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Renault",
+    "car_name": "1993 Renault Clio Williams",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 400,
+    "car_class": "D",
+    "country": "France",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Renault",
+    "car_name": "2008 Renault MÃ©gane R26.R",
+    "car_type": "Hot Hatch",
+    "performance_index": 561,
+    "car_class": "B",
+    "country": "France",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Renault",
+    "car_name": "2010 Renault Megane RS 250",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 538,
+    "car_class": "B",
+    "country": "France",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Renault",
+    "car_name": "2018 Renault Megane R.S.",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 547,
+    "car_class": "B",
+    "country": "France",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Rimac",
+    "car_name": "2021 Rimac Nevera",
+    "car_type": "Hypercars",
+    "performance_index": 913,
+    "car_class": "R",
+    "country": "Croatia",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Rivian",
+    "car_name": "2022 Rivian R1T",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 607,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "RJ Anderson",
+    "car_name": "2016 RJ Anderson #37 Polaris RZR Pro 2 Truck",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 674,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "RJ Anderson",
+    "car_name": "2021 RJ Anderson #37 Polaris RZR Pro 4 Truck",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 677,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Saleen",
+    "car_name": "2017 Saleen S7 LM",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 835,
+    "car_class": "S2",
+    "country": "USA",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Schuppan",
+    "car_name": "1993 Schuppan 962CR",
+    "car_type": "Retro Supercars",
+    "performance_index": 764,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Shelby",
+    "car_name": "1965 Shelby Cobra 427 S/C",
+    "car_type": "Rare Classics",
+    "performance_index": 582,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Shelby",
+    "car_name": "1965 Shelby Cobra Daytona Coupe",
+    "car_type": "Classic Racers",
+    "performance_index": 515,
+    "car_class": "B",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "SIERRA Cars",
+    "car_name": "2020 SIERRA Cars #23 Yokohama ALPHA",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 926,
+    "car_class": "R",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "SIERRA Cars",
+    "car_name": "2021 SIERRA Cars 700R",
+    "car_type": "UTV's",
+    "performance_index": 346,
+    "car_class": "D",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "SIERRA Cars",
+    "car_name": "2021 SIERRA Cars RX3",
+    "car_type": "UTV's",
+    "performance_index": 635,
+    "car_class": "A",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "SRT",
+    "car_name": "2013 SRT Viper GTS",
+    "car_type": "Modern Muscle",
+    "performance_index": 707,
+    "car_class": "S1",
+    "country": "USA",
+    "collection": [
+      "Autoshow",
+      "Wheelspin",
+      "Loyalty"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "1980 Subaru BRAT GL",
+    "car_type": "Utility Heroes",
+    "performance_index": 159,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "1990 Subaru LEGACY RS",
+    "car_type": "Retro Rally",
+    "performance_index": 406,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "1994 Subaru Vivio RX-R",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 281,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "1994 Subaru Vivio RX-R Forza Edition",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 900,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "1996 Subaru SVX",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 466,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "1998 Subaru Impreza 22B-STi Version",
+    "car_type": "Retro Rally",
+    "performance_index": 600,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2004 Subaru IMPREZA WRX STI",
+    "car_type": "Modern Rally",
+    "performance_index": 552,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2005 Subaru IMPREZA WRX STI",
+    "car_type": "Modern Rally",
+    "performance_index": 570,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2005 Subaru LEGACY B4 2.0 GT",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 549,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2008 Subaru IMPREZA WRX STI",
+    "car_type": "Modern Rally",
+    "performance_index": 539,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2011 Subaru WRX STI",
+    "car_type": "Modern Rally",
+    "performance_index": 547,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2013 Subaru BRZ",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 463,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2015 Subaru WRX STI",
+    "car_type": "Modern Rally",
+    "performance_index": 555,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2018 Subaru WRX STI ARX Supercar",
+    "car_type": "Rally Monsters",
+    "performance_index": 757,
+    "car_class": "S1",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2019 Subaru STI S209",
+    "car_type": "Modern Rally",
+    "performance_index": 574,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2022 Subaru BRZ",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 551,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2022 Subaru BRZ Forza Edition",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 700,
+    "car_class": "A",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "car_name": "2022 Subaru WRX",
+    "car_type": "Modern Rally",
+    "performance_index": 538,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1965 Toyota Sports 800",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 141,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal",
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1965 Toyota Sports 800 Fanta Edition",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 141,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1969 Toyota 2000GT",
+    "car_type": "Rare Classics",
+    "performance_index": 377,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1974 Toyota Corolla SR5",
+    "car_type": "Classic Sports Cars",
+    "performance_index": 197,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1979 Toyota FJ40",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 157,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1985 Toyota Sprinter Trueno GT Apex",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 376,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1985 Toyota Sprinter Trueno GT Apex Forza Edition",
+    "car_type": "Track Toys",
+    "performance_index": 600,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1989 Toyota MR2 SC",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 397,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1991 Toyota Chaser GT Twin Turbo",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 484,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1991 Toyota Sera",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 344,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1992 Toyota Celica GT-Four RC ST185",
+    "car_type": "Retro Rally",
+    "performance_index": 438,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1992 Toyota Supra 2.0 GT",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 453,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1993 Toyota #1 T100 Baja Truck",
+    "car_type": "Unlimited Offroad",
+    "performance_index": 584,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1994 Toyota Celica GT-Four ST205",
+    "car_type": "Retro Rally",
+    "performance_index": 479,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1995 Toyota J&J Motorsport Supra WTAC",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 828,
+    "car_class": "S2",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1995 Toyota MR2 GT",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 522,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1996 Toyota Starlet Glanza V",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 435,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1997 Toyota Chaser 2.5 Tourer V",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 504,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1997 Toyota Soarer 2.5 GT-T",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 491,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1998 Toyota Supra RZ",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 529,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "1999 Toyota Altezza RS200 Z EDITION",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 461,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2003 Toyota Celica Sport Specialty II",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 433,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2005 Toyota Crown Super Deluxe Taxi",
+    "car_type": "Retro Super Saloons",
+    "performance_index": 181,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2013 Toyota 86",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 460,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2013 Toyota 86 Stories",
+    "car_type": "Track Toys",
+    "performance_index": 685,
+    "car_class": "A",
+    "country": "Japan",
+    "collection": [
+      "Collection Journal",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2016 Toyota Land Cruiser Arctic Trucks AT37",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 332,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2017 Toyota JPN Taxi",
+    "car_type": "Eclectic Domestics",
+    "performance_index": 248,
+    "car_class": "D",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2019 Toyota 4Runner TRD Pro",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 421,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2019 Toyota Tacoma TRD Pro",
+    "car_type": "Pickups & 4x4's",
+    "performance_index": 409,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2019 Toyota Tacoma TRD Pro Forza Edition",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 998,
+    "car_class": "R",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2020 Toyota GR Supra",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 616,
+    "car_class": "A",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Collection Journal",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2021 Toyota GR Yaris",
+    "car_type": "Modern Rally",
+    "performance_index": 558,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2022 Toyota GR86",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 556,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2023 Toyota Camry TRD",
+    "car_type": "Modern Super Saloons",
+    "performance_index": 525,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2023 Toyota GR Corolla",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 596,
+    "car_class": "B",
+    "country": "Japan",
+    "collection": [
+      "Autoshow DLC"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "car_name": "2025 Toyota Land Cruiser",
+    "car_type": "Sports Utility Heroes",
+    "performance_index": 456,
+    "car_class": "C",
+    "country": "Japan",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "TVR",
+    "car_name": "1998 TVR Cerbera Speed 12",
+    "car_type": "Retro Supercars",
+    "performance_index": 770,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "TVR",
+    "car_name": "2005 TVR Sagaris",
+    "car_type": "Retro Sports Cars",
+    "performance_index": 672,
+    "car_class": "A",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "TVR",
+    "car_name": "2018 TVR Griffith",
+    "car_type": "Modern Sports Cars",
+    "performance_index": 729,
+    "car_class": "S1",
+    "country": "UK",
+    "collection": [
+      "Autoshow"
+    ]
+  },
+  {
+    "make": "Ultima",
+    "car_name": "2015 Ultima Evolution Coupe 1020",
+    "car_type": "Extreme Track Toys",
+    "performance_index": 925,
+    "car_class": "R",
+    "country": "UK",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "1963 Volkswagen Beetle",
+    "car_type": "Cult Cars",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "1963 Volkswagen Type 2 De Luxe",
+    "car_type": "Cult Cars",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Collection Journal"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "1969 Volkswagen Class 5/1600 Baja Bug",
+    "car_type": "Buggies",
+    "performance_index": 260,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "1982 Volkswagen Pickup LX",
+    "car_type": "Utility Heroes",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "1983 Volkswagen Golf GTI",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 314,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "1989 Volkswagen Rallye Golf",
+    "car_type": "Retro Rally",
+    "performance_index": 440,
+    "car_class": "C",
+    "country": "Germany",
+    "collection": [
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "1992 Volkswagen Golf Gti 16v Mk2",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 308,
+    "car_class": "D",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "1995 Volkswagen Corrado VR6",
+    "car_type": "Retro Hot Hatch",
+    "performance_index": 426,
+    "car_class": "C",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "2010 Volkswagen Golf R",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 526,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "2011 Volkswagen Scirocco R",
+    "car_type": "Hot Hatch",
+    "performance_index": 548,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "2014 Volkswagen Golf R",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 536,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "2017 Volkswagen #34 Andretti Rally Cross Beetle",
+    "car_type": "Rally Monsters",
+    "performance_index": 764,
+    "car_class": "S1",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "2021 Volkswagen Golf R",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 546,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "car_name": "2022 Volkswagen Golf R",
+    "car_type": "Super Hot Hatch",
+    "performance_index": 548,
+    "car_class": "B",
+    "country": "Germany",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Volvo",
+    "car_name": "1983 Volvo 242 Turbo Evolution",
+    "car_type": "Classic Rally",
+    "performance_index": 435,
+    "car_class": "C",
+    "country": "Sweden",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Wuling",
+    "car_name": "2013 Wuling Sunshine S",
+    "car_type": "Utility Heroes",
+    "performance_index": 107,
+    "car_class": "D",
+    "country": "China",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Wuling",
+    "car_name": "2013 Wuling Sunshine S Forza Edition",
+    "car_type": "Track Toys",
+    "performance_index": 800,
+    "car_class": "S1",
+    "country": "China",
+    "collection": [
+      "Wheelspin",
+      "Seasonal"
+    ]
+  },
+  {
+    "make": "Wuling",
+    "car_name": "2022 Wuling Hongguang Mini EV",
+    "car_type": "Hot Hatch",
+    "performance_index": 100,
+    "car_class": "D",
+    "country": "China",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  },
+  {
+    "make": "Zenvo",
+    "car_name": "2019 Zenvo TSR-S",
+    "car_type": "Hypercars",
+    "performance_index": 906,
+    "car_class": "R",
+    "country": "Denmark",
+    "collection": [
+      "Autoshow",
+      "Wheelspin"
+    ]
+  }
+]
+;
