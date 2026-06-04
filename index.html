@@ -82,6 +82,18 @@
               </label>
             </div>
 
+            <div class="exclude-box">
+              <div class="exclude-head">
+                <label for="excludeTypeSelect">Remover tipos</label>
+                <button id="clearExcludedTypesButton" type="button">Limpar</button>
+              </div>
+              <div class="exclude-row">
+                <select id="excludeTypeSelect"></select>
+                <button id="addExcludedTypeButton" type="button">Remover</button>
+              </div>
+              <div id="excludedTypesList" class="chip-list" aria-live="polite"></div>
+            </div>
+
             <div class="toggles">
               <label class="toggle">
                 <input id="noRepeatToggle" type="checkbox" checked>

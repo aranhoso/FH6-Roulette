@@ -32,19 +32,24 @@ const spinButton = document.querySelector("#spinButton");
 const quickPickButton = document.querySelector("#quickPickButton");
 const resetButton = document.querySelector("#resetButton");
 const clearHistoryButton = document.querySelector("#clearHistoryButton");
+const clearExcludedTypesButton = document.querySelector("#clearExcludedTypesButton");
+const addExcludedTypeButton = document.querySelector("#addExcludedTypeButton");
 const poolCount = document.querySelector("#poolCount");
 const winnerName = document.querySelector("#winnerName");
 const winnerMeta = document.querySelector("#winnerMeta");
 const historyList = document.querySelector("#historyList");
+const excludedTypesList = document.querySelector("#excludedTypesList");
 const modeSelect = document.querySelector("#modeSelect");
 const searchInput = document.querySelector("#searchInput");
 const makeSelect = document.querySelector("#makeSelect");
 const classSelect = document.querySelector("#classSelect");
 const typeSelect = document.querySelector("#typeSelect");
+const excludeTypeSelect = document.querySelector("#excludeTypeSelect");
 const countrySelect = document.querySelector("#countrySelect");
 const noRepeatToggle = document.querySelector("#noRepeatToggle");
 const durationInput = document.querySelector("#durationInput");
 const manualInput = document.querySelector("#manualInput");
+const excludedTypes = new Set(readJson("fh6-excluded-types", []));
 
 const controls = [
   modeSelect,
@@ -63,6 +68,7 @@ populateFilters();
 bindEvents();
 updatePool();
 renderHistory();
+renderExcludedTypes();
 fitCanvas();
 
 function bindEvents() {
@@ -70,6 +76,9 @@ function bindEvents() {
   quickPickButton.addEventListener("click", quickPick);
   resetButton.addEventListener("click", resetRemoved);
   clearHistoryButton.addEventListener("click", clearHistory);
+  clearExcludedTypesButton.addEventListener("click", clearExcludedTypes);
+  addExcludedTypeButton.addEventListener("click", addExcludedType);
+  excludeTypeSelect.addEventListener("input", () => setExcludeDisabled(modeSelect.value === "manual"));
   window.addEventListener("resize", fitCanvas);
 
   controls.forEach((control) => {
@@ -107,9 +116,11 @@ function saveSettings() {
 
 function populateFilters() {
   const settings = readJson("fh6-settings", {});
+  const carTypes = unique(cars.map((car) => car.car_type));
   fillSelect(makeSelect, "Qualquer marca", unique(cars.map((car) => car.make)), settings.make);
   fillSelect(classSelect, "Qualquer classe", unique(cars.map((car) => car.car_class)), settings.carClass);
-  fillSelect(typeSelect, "Qualquer tipo", unique(cars.map((car) => car.car_type)), settings.carType);
+  fillSelect(typeSelect, "Qualquer tipo", carTypes, settings.carType);
+  fillSelect(excludeTypeSelect, "Escolha um tipo", carTypes, "all");
   fillSelect(countrySelect, "Qualquer país", unique(cars.map((car) => car.country)), settings.country);
 }
 
@@ -142,6 +153,10 @@ function updatePool() {
     pool = filteredCars;
   }
 
+  if (mode !== "manual" && excludedTypes.size) {
+    pool = pool.filter((item) => item.manual || !excludedTypes.has(item.car_type));
+  }
+
   if (noRepeatToggle.checked) {
     pool = pool.filter((item) => !state.removedIds.has(item.id));
   }
@@ -149,6 +164,7 @@ function updatePool() {
   state.pool = pool;
   poolCount.textContent = String(pool.length);
   setFilterDisabled(mode === "all" || mode === "manual");
+  setExcludeDisabled(mode === "manual");
   setButtonsEnabled();
 
   if (!state.spinning) {
@@ -161,6 +177,13 @@ function setFilterDisabled(disabled) {
   [searchInput, makeSelect, classSelect, typeSelect, countrySelect].forEach((control) => {
     control.disabled = disabled;
   });
+}
+
+function setExcludeDisabled(disabled) {
+  excludeTypeSelect.disabled = disabled;
+  addExcludedTypeButton.disabled =
+    disabled || excludeTypeSelect.value === "all" || excludedTypes.has(excludeTypeSelect.value);
+  clearExcludedTypesButton.disabled = disabled || excludedTypes.size === 0;
 }
 
 function setButtonsEnabled() {
@@ -210,6 +233,37 @@ function parseManualCars() {
       collection: [],
       manual: true,
     }));
+}
+
+function addExcludedType() {
+  const type = excludeTypeSelect.value;
+
+  if (type === "all" || excludedTypes.has(type)) {
+    return;
+  }
+
+  excludedTypes.add(type);
+  saveExcludedTypes();
+  renderExcludedTypes();
+  updatePool();
+}
+
+function removeExcludedType(type) {
+  excludedTypes.delete(type);
+  saveExcludedTypes();
+  renderExcludedTypes();
+  updatePool();
+}
+
+function clearExcludedTypes() {
+  excludedTypes.clear();
+  saveExcludedTypes();
+  renderExcludedTypes();
+  updatePool();
+}
+
+function saveExcludedTypes() {
+  localStorage.setItem("fh6-excluded-types", JSON.stringify([...excludedTypes]));
 }
 
 function spin() {
@@ -405,6 +459,21 @@ function renderHistory() {
     item.append(title, meta);
     historyList.append(item);
   });
+}
+
+function renderExcludedTypes() {
+  excludedTypesList.replaceChildren();
+
+  [...excludedTypes].sort((a, b) => a.localeCompare(b, "pt-BR")).forEach((type) => {
+    const chip = document.createElement("button");
+    chip.type = "button";
+    chip.textContent = `${type} ×`;
+    chip.title = `Voltar a incluir ${type}`;
+    chip.addEventListener("click", () => removeExcludedType(type));
+    excludedTypesList.append(chip);
+  });
+
+  setExcludeDisabled(modeSelect.value === "manual");
 }
 
 function titleFor(item) {

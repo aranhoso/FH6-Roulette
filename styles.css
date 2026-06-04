@@ -371,6 +371,56 @@ input[type="range"] {
   accent-color: var(--hot);
 }
 
+.exclude-box {
+  display: grid;
+  gap: 10px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(16, 19, 27, 0.72);
+}
+
+.exclude-head,
+.exclude-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.exclude-head {
+  justify-content: space-between;
+}
+
+.exclude-head button,
+.exclude-row button,
+.chip-list button {
+  min-height: 34px;
+  padding: 0 12px;
+  font-size: 0.86rem;
+}
+
+.exclude-row select {
+  min-width: 0;
+}
+
+.chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  min-height: 34px;
+}
+
+.chip-list button {
+  border-color: rgba(246, 47, 94, 0.45);
+  color: #ffd8e1;
+  background: rgba(246, 47, 94, 0.14);
+}
+
+.chip-list button:hover {
+  border-color: rgba(246, 47, 94, 0.85);
+  background: rgba(246, 47, 94, 0.24);
+}
+
 .history {
   display: grid;
   gap: 10px;
@@ -419,6 +469,7 @@ input[type="range"] {
   }
 
   .result-box,
+  .exclude-box,
   .manual-box,
   .history {
     grid-column: 1 / -1;
@@ -461,6 +512,11 @@ input[type="range"] {
   .control-grid,
   .toggles {
     grid-template-columns: 1fr;
+  }
+
+  .exclude-row {
+    align-items: stretch;
+    flex-direction: column;
   }
 
   .action-row {
